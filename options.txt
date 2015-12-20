@@ -1,0 +1,10 @@
+left: 276
+right: 275
+jump: 273
+duck: 274
+action: 13
+fullscreen: off
+sound vol: 0.6
+music vol: 0.5
+start level: 1
+max level: 21
